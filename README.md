@@ -2,21 +2,19 @@
  <img width="700" src="https://github.com/jyotipandey-11/jyotipandey-11/blob/main/Images/HelloWorld.gif"> 
 </p>
 <h2 align="center">  I'm Jyoti Pandey</h2>
-<h3 align="center">A Passionate Python Developer From India</h3> <br>
+<h3 align="center">Full Stack Java Developer From India</h3> <br>
 
 ## About me:
-
-- Data Science Enthusiast.
-- Primary coding languages : Python, Java, C#.
-- Currently working on some projects.
 - Pronouns: She/Her.
+- Working in Tata Consultancy Services(TCS) as Java Developer.
 - Connect me here : <a href="https://linkedin.com/in/jyotipandey11"> <img alt="Linkdein" width="80px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
 ## Languages and Tools
+
+![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AD?style=flat-square&logo=Python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-00810b?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
